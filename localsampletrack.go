@@ -16,8 +16,8 @@ import (
 	"github.com/pion/webrtc/v3/pkg/media"
 	"go.uber.org/atomic"
 
-	"github.com/livekit/protocol/livekit"
-	"github.com/livekit/protocol/utils"
+	"github.com/LonglyCode/protocol/livekit"
+	"github.com/LonglyCode/protocol/utils"
 )
 
 const (

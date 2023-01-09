@@ -8,8 +8,8 @@ import (
 	"go.uber.org/atomic"
 	"google.golang.org/protobuf/proto"
 
+	"github.com/LonglyCode/protocol/livekit"
 	"github.com/livekit/mediatransportutil"
-	"github.com/livekit/protocol/livekit"
 )
 
 type TrackPublication interface {

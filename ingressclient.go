@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/livekit/protocol/auth"
-	"github.com/livekit/protocol/livekit"
+	"github.com/LonglyCode/protocol/auth"
+	"github.com/LonglyCode/protocol/livekit"
 )
 
 type IngressClient struct {

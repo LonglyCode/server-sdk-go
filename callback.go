@@ -1,7 +1,7 @@
 package lksdk
 
 import (
-	"github.com/livekit/protocol/livekit"
+	"github.com/LonglyCode/protocol/livekit"
 	"github.com/pion/webrtc/v3"
 )
 

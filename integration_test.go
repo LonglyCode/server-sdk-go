@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/atomic"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/LonglyCode/protocol/livekit"
 )
 
 // The integration test of the SDK. can't run this test standalone, should be run with `mage test`

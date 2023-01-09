@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-logr/stdr"
 
-	protoLogger "github.com/livekit/protocol/logger"
+	protoLogger "github.com/LonglyCode/protocol/logger"
 )
 
 var logger protoLogger.Logger = protoLogger.LogRLogger(stdr.New(log.Default()))

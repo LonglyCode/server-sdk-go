@@ -11,7 +11,7 @@ import (
 	"github.com/pion/sdp/v3"
 	"github.com/pion/webrtc/v3"
 
-	lksdp "github.com/livekit/protocol/sdp"
+	lksdp "github.com/LonglyCode/protocol/sdp"
 	sdkinterceptor "github.com/livekit/server-sdk-go/pkg/interceptor"
 )
 
